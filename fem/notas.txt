@@ -1,0 +1,2 @@
+1.forward problem (no calcula la matriz de plomo pero si necesita instantes de tiempo
+2.whit lead field matix (Esta red simplemente utiliza una matriz de campo de derivaciones calculadas previamente y la multiplica por los potenciales cardíacos para obtener los potenciales del torso de superficie)
